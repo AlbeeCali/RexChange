@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="demo_rowNames">
+	    <item>Flashlight - Display a FlashlightActivity</item>
+   	    <item>AlertDialog.Builder</item>
+   	    <item>Intent.ACTION_CALL</item>
+   	    <item>Keyboard</item>
+   	    <item>Toast</item>
+   	    <item>WebView</item>
+   	    <item>Graphics</item>
+   	    <item>Bonus - Call Web Service</item>
+	</string-array>
+	
+    <string-array name="currencies" >
+        <item>USD-U.S. Dollar</item>
+        <item>GBP-British Pound</item>
+        <item>EUR-Euro</item>
+        <item>XAU-Gold Ounces</item>
+        <item>XPT-Platinum Ounces</item>
+        <item>XAG-Silver Ounces</item>
+        <item>ARS-Argentine Peso</item>
+        <item>AUD-Australian Dollar</item>
+        <item>BRL-Brazilian Real</item>
+        <item>CAD-Canadian Dollar</item>
+        <item>CLP-Chilean Peso</item>
+        <item>CNY-Chinese Yuan</item>
+        <item>COP-Colombian Peso</item>
+        <item>DKK-Danish Krone</item>
+        <item>HKD-Hong Kong Dollar</item>
+        <item>INR-Indian Rupee</item>
+        <item>IDR-Indonesian Rupiah</item>
+        <item>IQD-Iraqi Dinar</item>
+        <item>ILS-Israeli Shekel</item>
+        <item>JPY-Japanese Yen</item>
+        <item>KRW-Korean Won</item>
+        <item>KWD-Kuwaiti Dinar</item>
+        <item>MXN-Mexican Peso</item>
+        <item>NZD-New Zealand Dollar</item>
+        <item>NOK-Norwegian Krone</item>
+        <item>PKR-Pakistani Rupee</item>
+        <item>PLN-Polish Zloty</item>
+        <item>RUB-Russian Rouble</item>
+        <item>SAR-Saudi Arabian Riyal</item>
+        <item>SGD-Singapore Dollar</item>
+        <item>ZAR-South African Rand</item>
+        <item>SEK-Swedish Krona</item>
+        <item>CHF-Swiss Franc</item>
+        <item>VEB-Venezuelan Bolivar</item>
+    </string-array>
+</resources>
